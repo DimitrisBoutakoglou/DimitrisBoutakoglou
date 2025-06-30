@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on something secret, but stay tuned!<br>🌱 I’m currently learning how to work with APIs and JavaScript frameworks, mainly React.<br>👨‍💻 All of my projects are available at: https://dimitrisboutakoglou.github.io/portfolio/<br>📫 Reach me at: dimitrisbt@outlook.com
+🔭 I’m currently working on an eshop project<br>🌱 I’m currently learning how to work with APIs and JavaScript frameworks, mainly React.<br>👨‍💻 All of my projects are available at: https://dimitrisboutakoglou.github.io/portfolio/<br>📫 Reach me at: dimitrisbt@outlook.com
 
 
 ## 🌐 Socials:
